@@ -14,6 +14,6 @@
   "author": "asalei",
   "license": "ISC",
   "dependencies": {
-    "plnx": "0.0.9"
+    "poloniex.js": "0.0.6"
   }
 }
