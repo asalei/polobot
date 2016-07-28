@@ -1,8 +1,7 @@
 {
+    "_comments":"please change name of this file to 'config.json'. Interval is in seconds. Amount is STTEM to buy",
     "key":"",
     "secret":"",
-    "interval":"300", //seconds, 5*60 = 300
-    "amount":"15" //number of STEEM to buy every interval
+    "interval":"300", 
+    "amount":"15
 }
-
-//please change name of this file to "config.json"
